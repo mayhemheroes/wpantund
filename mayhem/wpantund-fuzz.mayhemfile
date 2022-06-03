@@ -1,0 +1,4 @@
+project: PROJECT
+target: wpantund-fuzz
+cmds:
+- cmd: /out/wpantund-fuzz
